@@ -27,3 +27,4 @@ ztestweb('Rainbow');
 [daviddm-url]: https://david-dm.org//ztestweb
 [coveralls-image]: https://coveralls.io/repos//ztestweb/badge.svg
 [coveralls-url]: https://coveralls.io/r//ztestweb
+connect to github repository now.
